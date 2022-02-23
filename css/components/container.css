@@ -1,6 +1,7 @@
 .container {
 	width: 700px;
 	margin: 80px auto;
+	justify-content: center;
 }
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
